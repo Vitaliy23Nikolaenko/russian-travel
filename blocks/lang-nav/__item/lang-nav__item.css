@@ -1,0 +1,11 @@
+.lang-nav__item {
+  line-height: 1.17;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 320px) {
+  .lang-nav__item {
+    line-height: 1.11;
+    font-size: 18px;
+  }
+}
