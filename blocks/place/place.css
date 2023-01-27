@@ -7,7 +7,7 @@
   margin: 0 auto 80px;
   grid-template-areas: 
   "title website"
-  "image description"
+  "image description";
 } 
 
 .place:last-child {
