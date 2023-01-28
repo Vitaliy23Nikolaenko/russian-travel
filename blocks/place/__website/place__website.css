@@ -1,7 +1,5 @@
 .place__website {
-  max-width: 456px;
-  height: 46px;
-  grid-area: 'website';
+  grid-area: website;
   align-self: end;   
 }
 
