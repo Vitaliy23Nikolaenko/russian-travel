@@ -1,14 +1,5 @@
 .page {
-  max-width: 1280px;
-  min-width: 320px;
-  min-height: 100vh;
-  box-sizing: border-box;
-  flex: 1;
   background-color: #2a2c2f;
-  margin: 0 auto;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;

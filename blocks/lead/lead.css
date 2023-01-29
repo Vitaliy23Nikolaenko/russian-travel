@@ -5,17 +5,16 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width: 1024px) {
   .lead {
     margin-top: 48px;
-    padding: 0 48px;  
+    padding: 0 48px;
   }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 768px) {
   .lead {
     width: 100%;
-    padding: 0;  
+    padding: 0;
   }
 }
-

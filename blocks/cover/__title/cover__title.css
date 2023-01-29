@@ -4,28 +4,21 @@
   font-weight: 900;
   line-height: 1.06;
   text-align: center;
-  color:#fff;
+  color: #fff;
   max-width: 560px;
   z-index: 1;
   margin: 0 auto;
 }
 
-@media screen and (max-width:650px) {
+@media screen and (max-width: 650px) {
   .cover__title {
     font-size: 50px;
-    line-height: 1.1;
   }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width: 450px) {
   .cover__title {
-    font-size: 40px;
-    line-height: 1.1;
-  }
-}
-
-@media screen and (max-width:320px) {
-  .cover__title {
+    max-width: 288px;
     font-size: 32px;
     line-height: 1.09;
   }
